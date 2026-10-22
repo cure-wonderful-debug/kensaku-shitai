@@ -1,0 +1,10 @@
+{
+  "name": "番号・情報検索",
+  "short_name": "番号検索",
+  "lang": "ja",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f7f8",
+  "theme_color": "#f7f7f8"
+}
